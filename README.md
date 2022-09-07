@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jia69
+- 👋 Hi, I’m @jia
 - 👀 I’m interested in blockchain/dapp development 
 - 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on node.js
